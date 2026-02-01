@@ -1,0 +1,6 @@
+{
+  "Name": "02_Performer",
+  "ProjectType": "Process",
+  "Description": "Segunda parte del proyecto que permite hacer el preprocesamiento de los datos y su interaccion con el formulario web",
+  "MainFile": "Main.xaml"
+}
