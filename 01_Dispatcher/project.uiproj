@@ -1,0 +1,6 @@
+{
+  "Name": "01_Dispatcher",
+  "ProjectType": "Process",
+  "Description": "Proceso que permite enviar trabajos desde un archivo de Excel a la cola de Orchestrator.",
+  "MainFile": "Main.xaml"
+}
