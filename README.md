@@ -2,6 +2,8 @@
 
 **Diseñado por: Joan Manuel Moreno Rojas**
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![UiPath](https://img.shields.io/badge/uipath-FA4616?style=for-the-badge&logo=uipath&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 Repositorio de la prueba técnica diseñada para procesar transacciones masivas de FinCorp. Esta solución utiliza una arquitectura desacoplada para garantizar escalabilidad, resiliencia y trazabilidad total.
 
 ---
