@@ -26,6 +26,7 @@ En esta solución se implementaron estándares de arquitectura empresarial para 
 * **[01Dispatcher](./01_Dispatcher):** Carga masiva de datos desde Excel hacia Orchestrator Queues.
 * **[02Performer](./02_Performer):** Lógica transaccional, procesamiento en Python e ingreso de datos en portal web.
 * **[Documentation](./Documentation):** Carpeta con el detalle técnico y funcional del proyecto.
+* **[Samples](./Samples):** Carpeta con el archivo modelo de transacciones y la muestra del reporte final, ambos en excel.
 
 ---
 
@@ -52,6 +53,11 @@ Haz clic en los enlaces para acceder a la documentación detallada:
 8.  [**Evidencias de Ejecución 02Performer**](./Documentation/Log_02Performer.pdf): Reporte de resultados y logs.
 ---
 
+### Samples
+
+1.  [**Modelo de Transacciones**](./Samples/Transacciones.xlsx): Modelo de archivo de transacciones recibido por el Dispatcher en Excel.
+2.  [**Decisiones de Arquitectura (ADR)**](./Samples/Reporte_01022026.xlsx): Reporte final que genera el proyecto sobre las transacciones en Excel.
+
 ### Requisitos de Instalación
 
 1.  **UiPath Studio:** Versión actualizada.
@@ -60,4 +66,4 @@ Haz clic en los enlaces para acceder a la documentación detallada:
 4.  **Configuración:** Actualizar el archivo `Data/Config.xlsx` con las rutas locales de tu computador.
 
 ---
-Generado para la prueba técnica de FinCorp - 2026.
+Realizado para la prueba técnica de FinCorp - 2026.
