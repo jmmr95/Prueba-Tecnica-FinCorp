@@ -30,6 +30,12 @@ En esta solución se implementaron estándares de arquitectura empresarial para 
 
 ---
 
+### Reporte Resultados
+
+[**Reporte Auditoría Resultado**](./Documentation/Reporte_Resultado.pdf): Reporte entregado despues del procesamiento por 02Performer (Se incluye la entrada de 01Dispatcher para su comparación).
+
+---
+
 ### Videos
 
 Haz clic en los enlaces para acceder al video:
