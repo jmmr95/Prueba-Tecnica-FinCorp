@@ -32,7 +32,7 @@ En esta solución se implementaron estándares de arquitectura empresarial para 
 
 ### Reporte Resultados
 
-[**Reporte Auditoría Resultado**](./Documentation/Reporte_Resultado.pdf): Reporte entregado despues del procesamiento por 02Performer (Se incluye la entrada de 01Dispatcher para su comparación).
+* [**Reporte Auditoría Resultado**](./Documentation/Reporte_Resultado.pdf): Reporte entregado despues del procesamiento por 02Performer (Se incluye la entrada de 01Dispatcher para su comparación).
 
 ---
 
@@ -42,6 +42,12 @@ Haz clic en los enlaces para acceder al video:
 
 1. [**¿Cómo se realizó el Proyecto?**](https://drive.google.com/file/d/1G2dvGu0uGvrWk_IExAf69jzX5zvtlEjd/view?usp=drive_link)
 2. [**Instructivo**](https://drive.google.com/file/d/1G16WP2X4xqpZhteka5ZrZRywyTEzKetU/view?usp=drive_link)
+
+---
+
+### Script Python Preprocesamiento - 02Performer
+
+* [**Análisis del Problema (BPM)**](.02_Performer/Scripts/LogicaFinCorp.py): Script que realiza la lógica del preprocesamiento, validando las fechas, añadiendo el impuesto, depurando los montos y entregando el JSON.
 
 ---
 
