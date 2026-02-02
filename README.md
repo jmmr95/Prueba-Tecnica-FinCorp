@@ -47,7 +47,7 @@ Haz clic en los enlaces para acceder al video:
 
 ### Script Python Preprocesamiento - 02Performer
 
-* [**LogicaFinCorp**](.02_Performer/Scripts/LogicaFinCorp.py): Script que realiza la lógica del preprocesamiento, validando las fechas, añadiendo el impuesto, depurando los montos y entregando el JSON.
+* [**LogicaFinCorp**](./02_Performer/Scripts/LogicaFinCorp.py): Script que realiza la lógica del preprocesamiento, validando las fechas, añadiendo el impuesto, depurando los montos y entregando el JSON.
 
 ---
 
