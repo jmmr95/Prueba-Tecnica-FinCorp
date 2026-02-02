@@ -57,7 +57,7 @@ Haz clic en los enlaces para acceder a la documentación detallada:
 
 1.  [**Modelo de Transacciones**](./Samples/Transacciones.xlsx): Modelo de archivo de transacciones recibido por el Dispatcher en Excel.
 2.  [**Decisiones de Arquitectura (ADR)**](./Samples/Reporte_01022026.xlsx): Reporte final que genera el proyecto sobre las transacciones en Excel.
-
+---
 ### Requisitos de Instalación
 
 1.  **UiPath Studio:** Versión actualizada.
